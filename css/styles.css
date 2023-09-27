@@ -1,0 +1,57 @@
+  @font-face {
+    font-family:  D-DIN-Medium;
+    font-style:   normal;
+    font-weight:  400;
+    src: url('/IOYDm/6644c16230456b53823e48fd218cab88fb9618e3.woff2');
+  }
+  @font-face {
+    font-family:  D-DIN-Light;
+    font-style:   normal;
+    font-weight:  400;
+    src: url('/IOYDm/6644c16230456b53823e48fd218cab88fb9618e3.woff2');
+  }
+  @font-face {
+    font-family:  D-DIN-Bold;
+    font-style:   normal;
+    font-weight:  400;
+    src: url('/IOYDm/244a9f351df88d3ae932bdaa40aa1d7feb0f85b5.woff2');
+  }
+  @font-face {
+    font-family:  D-DIN-Regular;
+    font-style:   normal;
+    font-weight:  400;
+    src: url('/IOYDm/6644c16230456b53823e48fd218cab88fb9618e3.woff2');
+  }
+/* updated */
+  @font-face {
+    font-family:           'D-DIN-Bold';
+/*  platform-font-family:  'D-DIN'; */
+font-style:            normal;
+    unicode-range:         U+0-10FFFF;
+    font-weight:           400;
+    src:                   url('/IOYDm/244a9f351df88d3ae932bdaa40aa1d7feb0f85b5.woff2'); /* https://www.spacex.com/fonts/D-DIN-Bold.woff2 */
+  }
+  @font-face {
+    font-family:           'D-DIN-Regular';
+/*  platform-font-family:  'D-DIN'; */
+    font-style:            normal;
+    unicode-range:         U+0-10FFFF;
+    font-weight:           400;
+    src:                   url('/IOYDm/6644c16230456b53823e48fd218cab88fb9618e3.woff2'); /* https://www.spacex.com/fonts/D-DIN-Bold.woff2 */
+  }
+  @font-face {
+    font-family:           'D-DIN-Medium';
+/*  platform-font-family:  'D-DIN'; */
+    font-style:            normal;
+    unicode-range:         U+0-10FFFF;
+    font-weight:           400;
+    src:                   url('/IOYDm/6644c16230456b53823e48fd218cab88fb9618e3.woff2'); /* https://www.spacex.com/fonts/D-DIN-Bold.woff2 */
+  }
+  @font-face {
+    font-family:           'D-DIN-Light';
+/*  platform-font-family:  'D-DIN'; */
+    font-style:            normal;
+    unicode-range:         U+0-10FFFF;
+    font-weight:           400;
+    src:                   url('/IOYDm/6644c16230456b53823e48fd218cab88fb9618e3.woff2'); /* https://www.spacex.com/fonts/D-DIN-Bold.woff2 */
+  }
