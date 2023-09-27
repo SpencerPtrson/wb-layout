@@ -1,5 +1,5 @@
-.firstDiv {
-    display: block;
+body {
+    background-color:aliceblue;
 }
 
 .HEADER {
@@ -14,7 +14,14 @@ a:hover {
     color: red;
 }
 
-li#GitHub {
+ul.Personal {
+    width: 50%;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
+
+#GitHub {
     list-style: none;
     padding: 10px 30px;
     background-image: url("https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png");
@@ -22,10 +29,18 @@ li#GitHub {
     background-position: left center;
     background-size: 20px;
 }
-li#LinkedIn {
+#LinkedIn {
     list-style: none;
     padding: 10px 30px;
     background-image: url("https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+}
+#AzureDevOps {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url("https://cdn.iconscout.com/icon/free/png-512/azure-devops-3628645-3029870.png");
     background-repeat: no-repeat;
     background-position: left center;
     background-size: 20px;
